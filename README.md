@@ -17,9 +17,12 @@ Marcos Vilela</a></h1>
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
 
 - 💬 Ask me about **Anything on code**
-
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<br/>
+<br/>
+<p align="center">
+	<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+</p>
 
 <p align="center">
 
